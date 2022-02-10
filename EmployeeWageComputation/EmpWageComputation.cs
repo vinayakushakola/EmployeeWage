@@ -21,5 +21,13 @@ namespace EmployeeWageComputation
                 Console.WriteLine("Employee is Absent");
             }
         }
+
+        /// <summary>
+        /// Used to Show Employee Daily Wage 
+        /// </summary>
+        internal void GetEmployeeDailyWageComputation()
+        {
+            Console.WriteLine("Employee Daily Wage");
+        }
     }
 }

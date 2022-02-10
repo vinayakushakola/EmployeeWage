@@ -10,6 +10,7 @@ namespace EmployeeWageComputation
 
             EmpWageComputation emp = new EmpWageComputation();
             emp.IsEmployeePresent();
+            emp.GetEmployeeDailyWageComputation();
         }
     }
 }
